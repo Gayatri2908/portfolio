@@ -5,4 +5,4 @@ Welcome to my personal portfolio! This website showcases my skills, projects, an
 ![image](https://github.com/user-attachments/assets/e6f550e2-8697-45ea-8ff0-ad721b98ecb9)
 
 
-Check out the live version here: [portfolio-link](https://your-portfolio-link.com)
+Check out the live version here: [portfolio-link](https://gayatri2908.github.io/portfolio/)
