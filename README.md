@@ -6,3 +6,10 @@ Welcome to my personal portfolio! This website showcases my skills, projects, an
 
 
 Check out the live version here: [portfolio-link](https://gayatri2908.github.io/portfolio/)
+
+Created my portfolio successfully.
+
+![Portfolio Preview](https://raw.githubusercontent.com/your-username/your-repo/main/images/portfolio.png)
+
+Welcome to my personal portfolio! ...
+
